@@ -5,5 +5,6 @@
 			console.log(words+"hello!");
 		};
 		sayHi=null;
+        sayHi="Hi";
 	}
 })()
