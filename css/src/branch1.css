@@ -6,3 +6,7 @@ body {
   font-style: 14px;
   color: #333;
 }
+.banner {
+  width: 100%;
+  height: 30px;
+}
